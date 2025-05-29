@@ -1,5 +1,7 @@
 # Телеграм-бот - предсказатель цен акций
 
+@StockPricePredictor_bot
+
 ### Код:
 
 #### [Сбор и обработка данных](https://github.com/Zianielir/prediction_of_share_prices_service/blob/main/data_acquisition.ipynb)
