@@ -8,6 +8,8 @@
 
 #### [Инференс лучшей модели](https://github.com/Zianielir/prediction_of_share_prices_service/blob/main/final_model_train_and_inference.ipynb)
 
+# Материалы для курсовой работы
+
 #### [Презентация проекта](https://github.com/Zianielir/prediction_of_share_prices_service/blob/main/presentaton.pdf)
 
 #### [Текст курсовой работы по проекту](https://github.com/Zianielir/prediction_of_share_prices_service/blob/main/text_course_work.pdf)
